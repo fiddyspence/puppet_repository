@@ -7,6 +7,8 @@ mod "puppetlabs/pe_gem"
 mod "puppetlabs/mysql"
 mod "puppetlabs/firewall"
 mod "thias/vsftpd"
+mod "puppetlabs/inifile"
+
 
 
 # Modules from Github using various references
