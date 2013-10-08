@@ -23,6 +23,3 @@ mod 'r10k',
   :git => 'https://github.com/glarizza/r10k',
   :ref => 'modulepath'
 
-mod 'profiles',
-  :git => 'https://github.com/glarizza/puppet-profiles',
-  :ref => 'wordpress'
