@@ -14,9 +14,6 @@ mod "mhuffnagle/make"
 
 
 # Modules from Github using various references
-mod "wordpress",
-  :git => "https://github.com/hunner/puppet-wordpress.git",
-  :ref => '0.4.0'
 
 mod "property_list_key",
   :git => "https://github.com/glarizza/puppet-property_list_key.git",
